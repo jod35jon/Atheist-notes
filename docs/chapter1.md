@@ -1,6 +1,6 @@
-Here's the markdown version of the structured YouTube script:
+# Why I Became an Atheist: The Problem of Evil
 
-# Why I Became an Atheist: The Problem of Evil Explained
+The script for this is [here](./scripts/problem-of-evil.md)
 
 ## I. Introduction
 - Brief personal background as a former believer
@@ -59,6 +59,3 @@ Here's the markdown version of the structured YouTube script:
 - Invitation for viewers to share their thoughts
 - Call to action (like, subscribe, comment)
 
----
-
-*Remember to include visual aids, relevant quotes, or statistics throughout the video to keep the audience engaged. Maintain a respectful tone, emphasizing that this is your personal journey and perspective, while encouraging thoughtful discussion.*

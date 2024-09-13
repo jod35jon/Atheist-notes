@@ -5,6 +5,11 @@
 ### Introduction
 The "problem of evil" questions how an all-powerful, all-knowing, and perfectly good God can coexist with the reality of evil and suffering in the world. For many atheists, this philosophical dilemma serves as a significant reason for disbelief.
 
+This was first attributed to Aristotle who stated it as
+```
+Is [God] willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?
+```
+
 ### The Core Argument
 1. **God's Attributes**:
    - Omnipotent (all-powerful)
